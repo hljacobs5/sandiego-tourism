@@ -1,17 +1,47 @@
 body{
-  background-color: #9E18E6;
+  background-color: #DE9BAB;
  
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+  color: white;
 }
 
 .city {
   position: relative;
-  width: 100%;
+  
+  margin-left: 430px;
 }
 
 h4 {
   position: absolute;
-  top: 100px;
-  left: 0;
+  top: -40px;
+  left: 50px;
   width: 100%;
   color: white;
+  font-size: 30px;
+
+}
+
+.picture 
+{
+  display: inline-block;
+}
+
+.balboa
+{
+  margin-top: 90px;
+  margin-left: 20px;
+
+}
+
+h2 {
+
+  margin-left: 70px;
+}
+
+.windansea {
+  margin-left: 100px;
+  margin-top: 30px;
 }
