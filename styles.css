@@ -1,5 +1,5 @@
 body{
-  background-color: #DE9BAB;
+  background-color: #F5B7B1;
  
 }
 h1 {
@@ -12,6 +12,9 @@ h1 {
   position: relative;
   margin-top: 0px;
   margin-left: 430px;
+  border-width: 10px;
+  border-style: double;
+  margin-right: 411px;
 }
 
 h4 {
@@ -42,7 +45,7 @@ h2 {
 }
 
 .windansea {
-  margin-left: 135px;
+  margin-left: 138px;
   margin-top: 90px;
   
 }
@@ -50,4 +53,16 @@ h2 {
 .gaslamp {
   margin-left: 170px;
   margin-top: 90px;
+}
+.row2 {
+  display: inline-table;
+}
+.mission {
+  margin-left: 20px;
+  margin-top: 90px;
+}
+
+.sunset {
+  margin-top: 90px;
+  margin-left: 100px;
 }
