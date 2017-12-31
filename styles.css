@@ -1,5 +1,5 @@
 body{
-  background-color: #F5B7B1;
+  background-color: #FADBD8;
  
 }
 h1 {
@@ -37,7 +37,10 @@ h4 {
   margin-top: 90px;
   margin-left: 20px;
 
+
 }
+
+
 
 h2 {
 
@@ -70,4 +73,22 @@ h2 {
 .zoo {
   margin-top: 90px;
   margin-left: 160px;
+}
+
+.row3 {
+  display: inline-table;
+}
+.USD {
+  margin-left: 20px;
+  margin-top: 90px;
+}
+
+.race {
+margin-top: 90px;
+margin-left: 93px;
+}
+
+.old {
+  margin-top: 90px;
+  margin-left: 150px;
 }
