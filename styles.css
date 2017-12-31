@@ -10,7 +10,7 @@ h1 {
 
 .city {
   position: relative;
-  
+  margin-top: 0px;
   margin-left: 430px;
 }
 
@@ -26,7 +26,7 @@ h4 {
 
 .picture 
 {
-  display: inline-block;
+  display: inline-table;
 }
 
 .balboa
@@ -42,6 +42,12 @@ h2 {
 }
 
 .windansea {
-  margin-left: 100px;
-  margin-top: 30px;
+  margin-left: 135px;
+  margin-top: 90px;
+  
+}
+
+.gaslamp {
+  margin-left: 170px;
+  margin-top: 90px;
 }
