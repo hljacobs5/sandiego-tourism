@@ -1,5 +1,5 @@
 body{
-  background-color: #F5B7B1;
+  background-color: #FADBD8;
  
 }
 h1 {
@@ -25,7 +25,7 @@ h4 {
   top: -40px;
   left: 50px;
   width: 100%;
-  color: white;
+  color: black;
   font-size: 30px;
   font-family: "Monotype", cursive, sans-serif;
 
@@ -40,9 +40,11 @@ h4 {
 {
   margin-top: 90px;
   margin-left: 20px;
-
-
+   border:1px solid #021a40;
 }
+
+
+
 
 
 
