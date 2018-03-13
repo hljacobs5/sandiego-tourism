@@ -3,11 +3,14 @@ body{
  
 }
 h1 {
+  position: relative;
+  margin-left: 50px;
   text-align: center;
   font-size: 50px;
   color: white;
-  margin-top: -100px;
+  margin-top: 0px;
   font-family: "Monotype", cursive, sans-serif;
+
 }
 
 .city {
@@ -21,15 +24,20 @@ h1 {
 }
 
 h4 {
-  position: absolute;
-  top: -40px;
-  left: 50px;
+  position: relative;
+  z-index: -100;
+  top: -50px;
+  left: 470px;
   width: 100%;
   color: black;
   font-size: 30px;
   font-family: "Monotype", cursive, sans-serif;
+  z-index: 10;
+
 
 }
+
+
 
 .picture 
 {
@@ -40,11 +48,11 @@ h4 {
 {
   margin-top: 90px;
   margin-left: 20px;
-   border:1px solid #021a40;
+   
 }
 
 
-
+}
 
 
 
@@ -56,10 +64,12 @@ h2 {
 .windansea {
   margin-left: 138px;
   margin-top: 90px;
+  position: relative;
   
 }
 
 .gaslamp {
+  position: relative;
   margin-left: 170px;
   margin-top: 90px;
 }
@@ -67,16 +77,19 @@ h2 {
   display: inline-table;
 }
 .mission {
+  position: relative;
   margin-left: 20px;
   margin-top: 90px;
 }
 
 .sunset {
+  position: relative;
   margin-top: 90px;
   margin-left: 93px;
 }
 
 .zoo {
+  position: relative;
   margin-top: 90px;
   margin-left: 160px;
 }
@@ -85,16 +98,19 @@ h2 {
   display: inline-table;
 }
 .USD {
+  position: relative;
   margin-left: 20px;
   margin-top: 90px;
 }
 
 .race {
+  position: relative;
 margin-top: 90px;
 margin-left: 93px;
 }
 
 .old {
+  position: relative;
   margin-top: 90px;
   margin-left: 150px;
 }
