@@ -1,10 +1,10 @@
 body{
-  background-color: #FADBD8;
+  background-color: #FAC6AC;
  
 }
 h1 {
   position: relative;
-  margin-left: 50px;
+  margin-left: -20px;
   text-align: center;
   font-size: 50px;
   color: white;
@@ -15,7 +15,7 @@ h1 {
 
 .city {
   position: relative;
-  margin-top: 0px;
+  margin-top: -25px;
   margin-left: 430px;
   border-width: 10px;
   border-style: double;
